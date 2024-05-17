@@ -1,0 +1,122 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+.content{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Tj7HTPsZyBBlegO4oWtNUDO1tyK84CRfxTnPeK2v5KABxofAfPKP5Th7dwkFYWbJOyg&usqp=CAU);
+    background-size: cover;
+    width: 100vw;
+    height: 99vh;
+}
+.container{
+    width: 90vw;
+    height: 30vh;
+    background-color: rgb(10, 46, 33);
+  left: 10vh;
+    position: relative;
+    top: 8vh;
+    padding: 15px;
+}
+.detalis button{
+    color: rgb(34, 173, 125);
+    background-color: rgb(12, 59, 43);
+    border: 1px solid rgb(12, 59, 43);
+    padding: 7px;
+    border-radius: 5px;
+    width: 60px;
+}
+.detalis h1{
+    color: rgb(42, 224, 160);
+    text-transform: capitalize;
+}
+.detalis span{
+    display: block;
+    color: rgb(42, 224, 160);
+    line-height: 25px;
+}
+.detalis h3{
+    color: rgb(42, 224, 160);
+    position: relative;
+    top: 2vh;
+}
+.btn button{
+    background-color: transparent;
+    border: 1px solid rgb(42, 224, 160);
+    margin: 10px;
+    width: 160px;
+position: relative;
+top: 1vh;
+}
+.block{
+border-radius: 50%;
+background-color: rgb(12, 59, 43);
+width: 250px;
+height: 250px;
+position: relative;
+top: 20vh;
+left: 10vh;
+}
+.block p{
+    text-align: center;
+    position: relative;
+    top: 6vh;
+    color: rgb(42, 224, 160);
+    font-size: 20px;
+}
+.block span{
+    position: relative;
+    left: 17vh;
+    top: 5vh;
+    font-size: 30px;
+    font-weight: 900;
+    color: rgb(42, 224, 160);
+}
+.block2{
+    border-radius: 50%;
+background-color: rgb(12, 59, 43);
+width: 250px;
+height: 250px;
+position: relative;
+left: 70vh;
+bottom: 17vh;
+}
+.block2 span{
+    font-size: 30px;
+    font-weight: 900;
+    position: relative;
+    left: 17vh;
+    top: 5vh;
+    color: rgb(42, 224, 160);
+}
+.block2 p{
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+    top: 5vh;
+    color: rgb(42, 224, 160);
+}
+.block3{
+    border-radius: 50%;
+    background-color: rgb(12, 59, 43);
+    width: 250px;
+    height: 250px;
+    position: relative;
+    left: 130vh;
+    bottom: 54vh;
+}
+.block3 span{
+    font-size: 30px;
+    font-weight: 900;
+    color: rgb(42, 224, 160);
+    position: relative;
+    left: 15vh;
+    top: 5vh;
+}
+.block3 p{
+    font-size: 20px;
+    text-align: center;
+    color: rgb(42, 224, 160);
+    position: relative;
+    top: 6vh;
+}
